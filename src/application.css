@@ -1,0 +1,41 @@
+.application{
+    display: flex;
+    text-align: center;
+    margin-top: 0px;
+    
+
+}
+.rubby{
+    border-radius: 100%;
+    width: 18%;
+    margin-top: -30px;
+
+}
+.php{
+    border-radius: 100%;
+    width: 18%;
+    margin-top: -30px;
+
+}
+.ios{
+    border-radius: 100%;
+    width: 18%;
+    margin-top: -30px;
+
+}
+.android{
+    border-radius: 100%;
+    width: 18%;
+    margin-top: -30px;
+
+}
+.reactjs{
+    border-radius: 100%;
+    width: 18%;
+    margin-top: -30px;
+
+}
+.app_img{
+    width: 0px;
+    height: 221px;
+}

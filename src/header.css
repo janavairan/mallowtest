@@ -1,0 +1,21 @@
+.Header{
+    display: flex;  
+    border: 1px solid black;  
+}
+.mallow_logo{
+    width: 137px;
+    height: 37px;
+    margin: 0px;
+}
+.logo{
+    padding-left: 220px;
+    margin: 20px;  
+    font-weight: bold;
+}
+
+.header_1{
+    justify-content: space-between;
+    padding: 0px 30px;
+    margin: 20px;
+    font-weight: bold;
+}
